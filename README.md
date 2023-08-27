@@ -31,13 +31,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elias-awess" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-awess" height="30" width="40" />
+    <img align="center" src="https://engelias.website/accounts_images/linked-in.svg" alt="elias-awess" height="30" width="40" />
 </a>
 <a href="https://medium.com/@eng_elias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eng_elias" height="30" width="40" />
+    <img align="center" src="https://engelias.website/accounts_images/medium.svg" alt="@eng_elias" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/elias owis" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias owis" height="30" width="40" />
+<a href="https://www.youtube.com/@EliasOwis" target="blank">
+    <img align="center" src="https://engelias.website/accounts_images/youtube.svg" alt="Elias Owis" height="30" width="40" />
 </a>
 </p>
 
