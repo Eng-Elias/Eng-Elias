@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Elias Owis</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-elias&label=Profile%20views&color=0e75b6&style=flat" alt="eng-elias" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=eng-elias&label=Profile%20views&color=0e75b6&style=flat" alt="eng-elias" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-elias" alt="eng-elias" /></a> </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=eng-elias" alt="eng-elias" />
+    </a>
+</p>
 
 - 👨‍💻 All of my projects are available at [https://engelias.website](https://engelias.website)
 
@@ -24,9 +30,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elias-awess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-awess" height="30" width="40" /></a>
-<a href="https://medium.com/@eng_elias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eng_elias" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elias owis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias owis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elias-awess" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-awess" height="30" width="40" />
+</a>
+<a href="https://medium.com/@eng_elias" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eng_elias" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/elias owis" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elias owis" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
