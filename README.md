@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
 
 <p align="center">
+    <img src="https://engelias.website/logo.svg" alt="eng-elias" />
+</p>
+<br/>
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=eng-elias&label=Profile%20views&color=0e75b6&style=flat" alt="eng-elias" />
 </p>
 
