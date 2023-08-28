@@ -233,4 +233,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Numba: Unleashing the Power of Python for High-Performance Computing](https://medium.com/@eng_elias/numba-unleashing-the-power-of-python-for-high-performance-computing-fdec2c778b10?source=rss-7a5459821419------2)
+- [Simplifying CRUD Operations with Django REST Framework Serializers and RelatedFields](https://medium.com/@eng_elias/simplifying-crud-operations-with-django-rest-framework-serializers-and-relatedfields-fe333bb09b3c?source=rss-7a5459821419------2)
 <!-- BLOG-POST-LIST:END -->
