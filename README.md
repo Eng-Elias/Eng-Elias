@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias Owis</h1>
-<h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
+<h3 align="center">A Software Engineer and Full Stack Developer</h3>
 
 <p align="center">
     <img src="https://engelias.website/logo.svg" alt="eng-elias" />
@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=eng-elias" alt="eng-elias" />
+        <img src="https://github-profile-trophy.vercel.app/?username=eng-elias&theme=algolia&row=3&column=5" alt="eng-elias" />
     </a>
 </p>
 
