@@ -226,7 +226,7 @@
 </div>
 <br/>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-elias&" alt="eng-elias" />
+<img align="center" src="https://streak-stats.demolab.com/?user=Eng-Elias&theme=blue-navy" alt="eng-elias" />
 </div>
 <br/>
 
