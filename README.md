@@ -233,8 +233,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 12-Week Year Method: Achieving Peak Time Management Efficiency](https://medium.com/@eng_elias/the-12-week-year-method-achieving-peak-time-management-efficiency-00e2a423059a?source=rss-7a5459821419------2)
 - [My New Open-Source Project: “CrewAI Visualizer” with Next.js,](https://medium.com/@eng_elias/my-new-open-source-project-crewai-visualizer-with-next-js-fcbb4ba9894a?source=rss-7a5459821419------2)
 - [Unlock Your AI Potential with “Innovation Matrix”: Your Gateway to Tomorrow’s Tech!](https://medium.com/@eng_elias/unlock-your-ai-potential-with-innovation-matrix-your-gateway-to-tomorrows-tech-f9097193572e?source=rss-7a5459821419------2)
 - [JavaScript Promises Decoded: A Comprehensive Handbook for Advanced Devs](https://medium.com/@eng_elias/javascript-promises-decoded-a-comprehensive-handbook-for-advanced-devs-593a2954285a?source=rss-7a5459821419------2)
-- [Building a Web Search Engine with Django: A Comprehensive Guide](https://medium.com/@eng_elias/building-a-web-search-engine-with-django-a-comprehensive-guide-b2025dd706c?source=rss-7a5459821419------2)
 <!-- BLOG-POST-LIST:END -->
