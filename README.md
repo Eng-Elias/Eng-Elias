@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elias Owis</h1>
-<h3 align="center">A Software Engineer and Full Stack Developer</h3>
+<h3 align="center">A Full Stack Software Engineer</h3>
+<p>
+    I am a passionate software engineer who is constantly seeking out new challenges and opportunities to solve everyday problems and create innovative solutions that enhance productivity.
+</p>
+<p>
+    With a deep-rooted love for problem-solving and a keen eye for detail, I am a software developer who thrives on converting unconventional ideas into fully-functional software applications that push the boundaries of what is possible.
+</p>
 
 <p align="center">
     <img src="https://engelias.website/logo.svg" alt="eng-elias" />
@@ -17,15 +23,17 @@
 
 - 👨‍💻 All of my projects are available at [https://engelias.website](https://engelias.website)
 
-- 📝 I regularly write articles on [https://engelias.website/blog](https://engelias.website/blog)
+- 📝 I regularly write articles on [https://medium.com/@eng_elias](https://medium.com/@eng_elias)
 
 - 📫 How to reach me **elias@engelias.website**
 
 - 📄 Know about my experiences [https://engelias.website/eng_elias_cv.pdf](https://engelias.website/eng_elias_cv.pdf)
 
+- 🔧 My Digital Store: [https://engelias.gumroad.com/](https://engelias.gumroad.com/)
+
 - 💬 Ask me about **Django, Node.js, React, Angular, Odoo, Notion**
 
-- 🌱 I’m currently learning **Odoo development, DevOps**
+- 🌱 I’m currently learning **DevOps and System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
