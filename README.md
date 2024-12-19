@@ -241,8 +241,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part1: From Concept to…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part1-from-concept-to-4d87ed931fd0?source=rss-7a5459821419------2)
 - [Strategic Polling for Web Developers: Maximizing Efficiency with DOM Polling, Server Polling, and…](https://medium.com/@eng_elias/strategic-polling-for-web-developers-maximizing-efficiency-with-dom-polling-server-polling-and-523878d50fa9?source=rss-7a5459821419------2)
 - [Version 0.2: Discover What’s New in CrewAI Visualizer!](https://medium.com/@eng_elias/version-0-2-discover-whats-new-in-crewai-visualizer-4b1482db9e19?source=rss-7a5459821419------2)
 - [The 12-Week Year Method: Achieving Peak Time Management Efficiency](https://medium.com/@eng_elias/the-12-week-year-method-achieving-peak-time-management-efficiency-00e2a423059a?source=rss-7a5459821419------2)
-- [My New Open-Source Project: “CrewAI Visualizer” with Next.js,](https://medium.com/@eng_elias/my-new-open-source-project-crewai-visualizer-with-next-js-fcbb4ba9894a?source=rss-7a5459821419------2)
 <!-- BLOG-POST-LIST:END -->
