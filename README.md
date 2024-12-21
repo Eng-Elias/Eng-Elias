@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Elias Owis</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 <p>
-    I am a passionate software engineer who is constantly seeking out new challenges and opportunities to solve everyday problems and create innovative solutions that enhance productivity.
+    My motto is <b>"Your Time is Your Life"</b>, so I always try to invest every moment of my life to level up my skills and mentality.
 </p>
 <p>
-    With a deep-rooted love for problem-solving and a keen eye for detail, I am a software developer who thrives on converting unconventional ideas into fully-functional software applications that push the boundaries of what is possible.
+     I am a passionate software Engineer who is constantly seeking out new challenges and opportunities to solve everyday problems and create innovative solutions that enhance productivity.
+</p>
+<p>
+     With a deep-rooted enthusiasm for problem-solving and a keen eye for detail, I thrive on converting unconventional ideas into fully-functional software applications that push the boundaries of what is possible.
+</p>
+<p>
+     Additionally, I actively contribute to open-source projects, collaborating with a global community to drive positive change and make a meaningful impact in the world of technology.
 </p>
 
 <p align="center">
