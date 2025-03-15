@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elias Owis</h1>
+<h1 align="center">🌟 Welcome to the freestyle playground of Elias Owis 🌟</h1>
 <h3 align="center">A Full Stack Software Engineer</h3>
 <p>
     My motto is <b>"Your Time is Your Life"</b>, so I always try to invest every moment of my life to level up my skills and mentality.
@@ -27,17 +27,13 @@
     </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://engelias.website](https://engelias.website)
+- 👨‍💻 My website [https://engelias.website](https://engelias.website)
 
 - 📝 I regularly write articles on [https://medium.com/@eng_elias](https://medium.com/@eng_elias)
 
 - 📫 How to reach me **elias@engelias.website**
 
 - 📄 Know about my experiences [https://engelias.website/eng_elias_cv.pdf](https://engelias.website/eng_elias_cv.pdf)
-
-- 🔧 My Digital Store: [https://engelias.gumroad.com/](https://engelias.gumroad.com/)
-
-- 💬 Ask me about **Django, Node.js, React, Angular, Odoo, Notion**
 
 - 🌱 I’m currently learning **DevOps and System Design**
 
