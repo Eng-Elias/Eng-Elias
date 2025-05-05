@@ -243,11 +243,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Different Approaches to Implement Design Patterns Across Different Programming Languages: From…](https://medium.com/@eng_elias/different-approaches-to-implement-design-patterns-across-different-programming-languages-from-ffc298fead7d?source=rss-7a5459821419------2)
 - [My Solutions to Common Dev Headaches: RepoTree &amp; Quick Git Hooks](https://medium.com/@eng_elias/my-solutions-to-common-dev-headaches-repotree-quick-git-hooks-7f2fe9de7ed4?source=rss-7a5459821419------2)
 - [Open_Recall: My Open Source Solution for Remembering Everything You’ve Seen on the PC](https://medium.com/@eng_elias/open-recall-my-open-source-solution-for-remembering-everything-youve-seen-on-the-pc-ab3976add3d0?source=rss-7a5459821419------2)
 - [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part3: The Road Ahead…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part3-the-road-ahead-ed65a37797e4?source=rss-7a5459821419------2)
 - [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part2: Diving Deep; The…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part2-diving-deep-the-6d08a57424fa?source=rss-7a5459821419------2)
 - [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part1: From Concept to…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part1-from-concept-to-4d87ed931fd0?source=rss-7a5459821419------2)
 - [Strategic Polling for Web Developers: Maximizing Efficiency with DOM Polling, Server Polling, and…](https://medium.com/@eng_elias/strategic-polling-for-web-developers-maximizing-efficiency-with-dom-polling-server-polling-and-523878d50fa9?source=rss-7a5459821419------2)
-- [Version 0.2: Discover What’s New in CrewAI Visualizer!](https://medium.com/@eng_elias/version-0-2-discover-whats-new-in-crewai-visualizer-4b1482db9e19?source=rss-7a5459821419------2)
 <!-- BLOG-POST-LIST:END -->
