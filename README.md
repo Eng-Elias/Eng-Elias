@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Welcome to the freestyle playground of Elias Owis 🌟</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer - Backend & DevOps Focus</h3>
 <p>
     My motto is <b>"Your Time is Your Life"</b>, so I always try to invest every moment of my life to level up my skills and mentality.
 </p>
