@@ -243,11 +243,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Journey Into the Puzzle of Advanced System Design](https://medium.com/@eng_elias/my-journey-into-the-puzzle-of-advanced-system-design-66eff9faf8e9?source=rss-7a5459821419------2)
 - [How I Crammed 3 Weeks of Learning into 3 Days and Built a Next-Level AI Project: Notebook-RAG](https://medium.com/@eng_elias/how-i-crammed-3-weeks-of-learning-into-3-days-and-built-a-next-level-ai-project-notebook-rag-52e8359e6541?source=rss-7a5459821419------2)
 - [Different Approaches to Implement Design Patterns Across Different Programming Languages: From…](https://medium.com/@eng_elias/different-approaches-to-implement-design-patterns-across-different-programming-languages-from-ffc298fead7d?source=rss-7a5459821419------2)
 - [My Solutions to Common Dev Headaches: RepoTree &amp; Quick Git Hooks](https://medium.com/@eng_elias/my-solutions-to-common-dev-headaches-repotree-quick-git-hooks-7f2fe9de7ed4?source=rss-7a5459821419------2)
 - [Open_Recall: My Open Source Solution for Remembering Everything You’ve Seen on the PC](https://medium.com/@eng_elias/open-recall-my-open-source-solution-for-remembering-everything-youve-seen-on-the-pc-ab3976add3d0?source=rss-7a5459821419------2)
 - [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part3: The Road Ahead…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part3-the-road-ahead-ed65a37797e4?source=rss-7a5459821419------2)
 - [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part2: Diving Deep; The…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part2-diving-deep-the-6d08a57424fa?source=rss-7a5459821419------2)
-- [Revolutionizing Input: Building an AI-Powered Virtual Mouse and Keyboard — Part1: From Concept to…](https://medium.com/@eng_elias/revolutionizing-input-building-an-ai-powered-virtual-mouse-and-keyboard-part1-from-concept-to-4d87ed931fd0?source=rss-7a5459821419------2)
 <!-- BLOG-POST-LIST:END -->
